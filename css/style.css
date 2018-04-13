@@ -38,3 +38,10 @@ footer a {
     text-decoration: none;
     color: white;
 }
+
+.top {
+    background-color: #ccc;
+    color: #fff;
+    text-decoration: none;
+    padding: 1%;
+}
